@@ -1,0 +1,10 @@
+package com.prography.sw.mvikotiln.ui.main
+
+import android.os.Bundle
+import android.view.*
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProvider
+import com.prography.sw.mvikotiln.R
+import co
+# Project exclude paths
+/.gradle/
